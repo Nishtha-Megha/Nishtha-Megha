@@ -88,11 +88,9 @@ A deep-learning project for vehicle image classification.
 
 ## 📊 GitHub Stats
 
-<!-- ⚠️ Replace YOUR_USERNAME below with your actual GitHub username -->
+![Nishtha's GitHub Stats](https://github-stats-extended.vercel.app/api?username=Nishtha-Megha&show_icons=true&theme=tokyonight)
 
-![Nishtha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nishtha-Megha&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishtha-Megha&layout=compact&theme=tokyonight)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Nishtha-Megha&layout=compact&theme=tokyonight)
 
 ---
 
@@ -100,8 +98,7 @@ A deep-learning project for vehicle image classification.
 
 📧 **Email:** [nishthamegha@gmail.com](mailto:nishthamegha@gmail.com)
 
-<!-- ⚠️ Replace with your actual LinkedIn URL, e.g. https://linkedin.com/in/your-handle -->
-💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/nishtha-megha-228825378/)(https://linkedin.com/in/your-handle)
+💼 **LinkedIn:** [linkedin.com/in/nishtha-megha](https://www.linkedin.com/in/nishtha-megha-228825378/)
 
 🌐 **Portfolio:** Coming Soon
 
